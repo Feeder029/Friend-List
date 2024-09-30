@@ -1,0 +1,43 @@
+.container .list img{
+    border: 5px solid;
+    border-color: #2f54a5;
+    border-radius: 20px 20px;
+}
+
+body{
+    background-image: url(bg4.gif);
+}
+
+li{
+    
+    color: white;
+    font-size: 20px;
+}
+
+ol{
+    display: inline-block;
+    text-align: left;
+}
+
+.container{
+    text-align: center;
+}
+.container h1{
+    color: whitesmoke;
+    font-size: 60px;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.container .list h4{
+    margin-top: -5px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.container .list ul{
+    margin-top: -40px;
+}
